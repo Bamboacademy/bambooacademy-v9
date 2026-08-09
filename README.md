@@ -24,7 +24,7 @@ The platform aims to understand how each learner prefers to learn and use those 
 
 ### Landing Experience
 
-![Bambo Academy Homepage](homepage.jpeg)
+![Bambo Academy Landing Page](homepage.jpeg)
 
 The product introduces learners and parents to a personalized, engaging learning environment designed around discovery, motivation, and individual progress.
 
@@ -32,7 +32,7 @@ The product introduces learners and parents to a personalized, engaging learning
 
 ## 🧠 Personalized Learning
 
-![Personalized Learning Experience](personalized-learning.jpeg)
+![Personalized Learning](personalized-learning.jpeg)
 
 Learners can express how they prefer to interact with educational material, creating the foundation for more individualized learning experiences.
 
