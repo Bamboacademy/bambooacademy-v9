@@ -24,7 +24,7 @@ The platform aims to understand how each learner prefers to learn and use those 
 
 ### Landing Experience
 
-![Bambo Academy Landing Page](homepage.jpeg)
+![Bambo Academy Landing Page](homepage.jpg)
 
 The product introduces learners and parents to a personalized, engaging learning environment designed around discovery, motivation, and individual progress.
 
@@ -32,7 +32,7 @@ The product introduces learners and parents to a personalized, engaging learning
 
 ## 🧠 Personalized Learning
 
-![Personalized Learning](personalized-learning.jpeg)
+![Personalized Learning](personalized-learning.jpg)
 
 Learners can express how they prefer to interact with educational material, creating the foundation for more individualized learning experiences.
 
@@ -49,7 +49,7 @@ The concept considers factors such as:
 
 ## 🎮 Gamified Learning
 
-![Gamified Learning](gamified-learning.jpeg)
+![Gamified Learning](gamified-learning.jpg)
 
 Gamification was incorporated into the product experience to make learning feel more rewarding and engaging.
 
