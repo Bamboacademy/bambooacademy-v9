@@ -67,7 +67,7 @@ The MVP concept includes:
 
 A walkthrough of the early Bambo Academy MVP:
 
-[▶ Watch the Product Demo](YOUR_VIDEO_LINK)
+[▶ Watch the Product Demo](https://youtu.be/zSAcBPQi0lo)
 
 ---
 
